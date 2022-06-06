@@ -1,0 +1,34 @@
+    form{
+      width: 500px;
+      margin: 0px auto;
+       padding: 20px;
+       border: 9px brown groove;
+      background-color: white;
+       opacity: 0.96;
+    }
+  .input-group > input{
+       border-radius: 5px 5px 0 0;  
+     }
+    .input-group label{
+      margin:3px;
+      text-align: left;
+      font-size: 20px;
+    }
+    .input-group input{
+      height: 23px;
+      width: 75%;
+      padding: 5px 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 3px solid gray;
+    }
+    .input-groupv{padding-left: 150px; padding-top: 7px;}
+    .input-groupv button{
+      width: 30%;
+      height: 30px;
+      font-size: 19px;
+      border-radius: 5px;
+      text-align: center; background-color: #0cc6cd;
+      border:1px solid gray;
+    }
+
